@@ -32,12 +32,12 @@ as I go. Right now that's mostly <a href="https://github.com/Kaizweeen/Koino"><b
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaizweeen&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1a1730&title_color=2ee6d6&icon_color=ff5da2&text_color=c9c4e8" alt="Kaizen's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizweeen&layout=compact&hide_border=true&langs_count=8&bg_color=1a1730&title_color=2ee6d6&text_color=c9c4e8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaizweeen&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800&bg_color=1a1730&title_color=2ee6d6&icon_color=ff5da2&text_color=c9c4e8" alt="Kaizen's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizweeen&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800&bg_color=1a1730&title_color=2ee6d6&text_color=c9c4e8" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaizweeen&hide_border=true&background=1a1730&stroke=2b2550&ring=ff5da2&fire=ff8a3d&currStreakLabel=2ee6d6&sideLabels=c9c4e8&dates=8a83b0&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Kaizweeen&hide_border=true&background=1a1730&stroke=2b2550&ring=ff5da2&fire=ff8a3d&currStreakLabel=2ee6d6&sideLabels=c9c4e8&dates=8a83b0&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 
 <br/><br/>
 
