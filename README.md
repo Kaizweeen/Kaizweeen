@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="rick.svg" width="500" alt="ASCII Rick Astley dancing between two speakers, Never Gonna Give You Up">
+  <img src="rick.svg" width="720" alt="Shaded ASCII animation of Rick Astley singing at a microphone, Never Gonna Give You Up">
 </p>
