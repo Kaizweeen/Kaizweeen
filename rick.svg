@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" role="img" aria-label="ASCII Rick Astley dancing, Never Gonna Give You Up">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:22px;fill:#24292f}
+.t{font-size:16px;letter-spacing:3px}
+.s{font-size:13px;letter-spacing:2px;opacity:.6}
+.f{opacity:0;animation:show 0.8s steps(1,end) infinite}
+@keyframes show{0%{opacity:1}25.00%{opacity:1}25.01%{opacity:0}100%{opacity:0}}
+@media (prefers-color-scheme:dark){text{fill:#e6edf3}}
+</style>
+<text class="t" x="210" y="40" text-anchor="middle">NEVER GONNA GIVE YOU UP</text>
+<text class="s" x="210" y="62" text-anchor="middle">RICK ASTLEY</text>
+<g class="f" style="animation-delay:0.00s"><text x="137" y="108" xml:space="preserve">    o /   </text><text x="137" y="134" xml:space="preserve">    |/    </text><text x="137" y="160" xml:space="preserve">     |     </text><text x="137" y="186" xml:space="preserve">    /     </text><text x="137" y="212" xml:space="preserve">   /      </text></g>
+<g class="f" style="animation-delay:0.20s"><text x="137" y="108" xml:space="preserve">  o       </text><text x="137" y="134" xml:space="preserve">   |__    </text><text x="137" y="160" xml:space="preserve">   |       </text><text x="137" y="186" xml:space="preserve">  /       </text><text x="137" y="212" xml:space="preserve"> /        </text></g>
+<g class="f" style="animation-delay:0.40s"><text x="137" y="108" xml:space="preserve">     o     </text><text x="137" y="134" xml:space="preserve">   --|--   </text><text x="137" y="160" xml:space="preserve">     |     </text><text x="137" y="186" xml:space="preserve">    /     </text><text x="137" y="212" xml:space="preserve">   _/ _   </text></g>
+<g class="f" style="animation-delay:0.60s"><text x="137" y="108" xml:space="preserve">       o/  </text><text x="137" y="134" xml:space="preserve">    __/|   </text><text x="137" y="160" xml:space="preserve">       |   </text><text x="137" y="186" xml:space="preserve">      /   </text><text x="137" y="212" xml:space="preserve">     /    </text></g>
+</svg>
