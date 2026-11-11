@@ -41,6 +41,6 @@ as I go. Right now that's mostly <a href="https://github.com/Kaizweeen/Koino"><b
 
 <br/><br/>
 
-<sub>kaizen.gabriel.0106@gmail.com</sub>
+<sub><a href="https://kaizweeen.github.io/kaizen/">kaizweeen.github.io/kaizen</a></sub>
 
 </div>
